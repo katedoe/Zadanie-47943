@@ -1,0 +1,16 @@
+header {
+    background-image: url(/img/background-space-galaxy-picture.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    color: white;
+}
+
+#o-mnie {
+    text-align: center;
+}
+
